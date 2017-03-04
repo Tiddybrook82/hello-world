@@ -16,7 +16,7 @@
   <img src="http://www.kingofswords.com/images/Fatbastard.jpg"/>
   
   <!--This is a hyperlink image taking you to the McDonalds homepage-->
- <a href="http://www.mcdonalds.co.uk/ukhome.html"><img src="http://i.dailymail.co.uk/i/pix/2014/10/23/1414039030233_wps_3_Australia_Lamborghinis_de.jpg">Your meal is highly unlikely to arrive in this vehicle</a>
+ <a href="http://www.mcdonalds.co.uk/ukhome.html"><img src="http://i.dailymail.co.uk/i/pix/2014/10/23/1414039030233_wps_3_Australia_Lamborghinis_de.jpg"><br />Your meal is highly unlikely to arrive in this vehicle</a>
   
   <p>Please do note the following</p>
   <ol>
