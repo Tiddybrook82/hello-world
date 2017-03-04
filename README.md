@@ -30,7 +30,7 @@
   <!--The side arm of choice for Hitler's Nazi party-->
   <img src="http://www.paulfrasercollectibles.com/upload/public/docimages/Image/f/h/m/MillionDollarLugerMain.jpg"/>
   
-  <a href="https://youtu.be/4gO7uemm6Yo">And after listening to this enlightening track, do us all a favour before we have to fund a crane to lift you out of your house due to excessive McDonald's home deliveries</a>
+  <a href="https://youtu.be/4gO7uemm6Yo">Please click here, and after listening to this enlightening track, do us all a favour before we have to fund a crane to lift you out of your house due to excessive McDonald's home deliveries</a>
     
 </body> 
 </html>
